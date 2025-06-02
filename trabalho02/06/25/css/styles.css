@@ -1,0 +1,15 @@
+.bg-menu{
+    background-color: rgb(0, 109, 0);
+}
+
+.navbar li a{
+    color: #FFF;
+}
+
+.espacamento{
+    margin: 60px 0px !important;
+}
+.fundo img{
+    width: 100vw;
+    height: 100vh
+}
