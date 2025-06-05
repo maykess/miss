@@ -5,11 +5,31 @@
 .navbar li a{
     color: #FFF;
 }
-
-.espacamento{
-    margin: 60px 0px !important;
-}
 .fundo img{
     width: 100vw;
     height: 100vh
+}
+.pergunta-freq {
+    text-align: center !important;
+    color: rgb(0, 87, 0); 
+    font-weight: bold;
+}
+.espacamento-top{
+    margin-top: 60px;
+}
+.saiba-mais{
+    background-color: rgb(206, 255, 206);
+}
+.espacamento-txt{
+    padding-top: 60px !important;
+}
+.transformar-saude{
+    text-align: center;
+    padding-top: 40px !important;
+}
+.button-estilo{
+    text-align: center;
+    color: green;
+    border-radius: 30%;
+    padding: 40px !important;
 }
